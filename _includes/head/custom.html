@@ -1,0 +1,26 @@
+<!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+<!-- https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/_includes/head/custom.html -->
+
+<style>
+  {% if page.header.text_color %}
+    .page__hero--overlay .page__title,
+    .page__hero--overlay .page__meta,
+    .page__hero--overlay .page__lead,
+    .page__hero--overlay .btn {
+      color: {{page.header.text_color}} !important;
+      text-shadow: none;
+    }
+
+    .page__hero--overlay .btn--light-outline {
+      border-top-color: {{page.header.text_color}} !important;
+      border-bottom-color: {{page.header.text_color}} !important;
+      border-left-color: {{page.header.text_color}} !important;
+      border-right-color: {{page.header.text_color}} !important;
+    }
+  {% endif %}
+</style>

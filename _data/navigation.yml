@@ -1,9 +1,29 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+  - title: "Calculator"
+    url: /app-user-guide/
+    description: The online calculator to estimate carbon footprints
+  - title: "Training"
+    url: /training/
+  - title: "GA4HPC"
+    url: /GA4HPC/
+  - title: "Publications"
+    url: /publications/
+  - title: "Talks"
+    url: /talks/
   - title: "About"
     url: /about/
+
+GA4HPC:
+  - title: Overview
+    url: /GA4HPC/
+  - title: Install
+    url: /GA4HPC/install
+  - title: Edit code and contribute
+    url: /GA4HPC/edit
+
+training:
+  - title: Overview
+    url: /training/
+  - title: Ten Simple Rules
+    url: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009324
+  - title: "Recordings"
