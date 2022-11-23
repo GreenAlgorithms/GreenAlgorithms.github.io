@@ -9,3 +9,4 @@ _site/
 vendor/
 
 assets/images/placeholder*
+*/.DS_Store
