@@ -62,8 +62,8 @@ gallery_logos:
     image_path: /assets/images/Baker_gallery.png
 ---
 
-__Are you looking for the online calculator?__ It's been moved to [www.green-algorithms.org/calculator](https://www.green-algorithms.org/calculator)
-{: .notice--success}
+<!-- __Are you looking for the online calculator?__ It's been moved to [calculator.green-algorithms.org](https://www.green-algorithms.org/calculator)
+{: .notice--success} -->
 
 __:hourglass: This website is a work in progress, and we will keep adding content in the coming weeks!__
 {: .notice--warning}
