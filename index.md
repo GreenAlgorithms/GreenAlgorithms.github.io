@@ -15,7 +15,7 @@ header:
   text_color: rgb(80, 80, 80)
   actions:
   - label: "Carbon footprint calculator"
-    url: https://green-algorithms.org
+    url: http://calculator.green-algorithms.org
 
 permalink: /
 title: "Green Algorithms"
@@ -62,7 +62,7 @@ gallery_logos:
     image_path: /assets/images/Baker_gallery.png
 ---
 
-__Are you looking for the online calculator?__ It's been moved to [calculator.green-algorithms.org](https://calculator.green-algorithms.org)
+__Are you looking for the online calculator?__ It's been moved to [calculator.green-algorithms.org](http://calculator.green-algorithms.org)
 {: .notice--success}
 
 __:hourglass: This website is a work in progress, and we will keep adding content in the coming weeks!__

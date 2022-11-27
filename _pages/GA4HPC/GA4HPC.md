@@ -20,7 +20,7 @@ toc: true
 toc_sticky: true
 ---
 
-In some situations, using an online calculator such as the [Green Algorithms one](https://www.green-algorithms.org) isn't very practical, e.g. when many different jobs are run. In an ideal world, there would be a tool that collects automatically all the details of the algorithms ran and estimate the corresponding energy usage and carbon footprint.
+In some situations, using an online calculator such as the [Green Algorithms one](http://calculator.green-algorithms.org) isn't very practical, e.g. when many different jobs are run. In an ideal world, there would be a tool that collects automatically all the details of the algorithms ran and estimate the corresponding energy usage and carbon footprint.
 __GA4HPC__ is a first step in this direction.
 
 High Performance Computing (HPC) clusters tend to log information on all jobs ran on them, for accounting purposes, and this information can be pulled.

@@ -10,7 +10,7 @@ header:
   text_color: rgb(80, 80, 80)
   actions:
   - label: "Green Algorithms Calculator"
-    url: https://www.green-algorithms.org
+    url: http://calculator.green-algorithms.org
 
 toc: true
 toc_sticky: true
