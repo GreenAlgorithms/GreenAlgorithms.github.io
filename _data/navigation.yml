@@ -27,3 +27,11 @@ training:
   - title: Ten Simple Rules
     url: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009324
   - title: "Recordings"
+
+talks:
+  - title: "To jump straight to the latest recordings and slides:"
+    children:
+    - title: "- To understand the impact of bioinformatics (recording)"
+      url: https://www.ebi.ac.uk/training/events/environmental-impact-computational-biology/
+    - title: "- Latest slides on the impact of AI"
+      url: https://drive.google.com/file/d/15KP3gxyuu23MW6WaNAW867Ti4RBBZClP/view?usp=share_link

@@ -19,6 +19,8 @@ sidebar:
   - image: assets/images/app_fullScreenshot.png
 ---
 
+<!-- TODO: remove the app screenshot on small devices -->
+
 ## Quick start guide
 
 <!-- TODO: app quick start guide -->
