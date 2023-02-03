@@ -31,7 +31,7 @@ At this stage, the script works on any HPC server using [SLURM](https://slurm.sc
 
 ## How to install it
 
-It doesn't require any particular permissions, you just need to copy the GitHub repository on your HPC drive, enter some information about your data centre, and you're good to go! [Tutorial here](/GA4HPC/install)
+It doesn't require any particular permissions, you just need to copy the GitHub repository on your HPC drive, enter some information about your data centre, and you're good to go! [Tutorial here]({% link _pages/GA4HPC/GA4HPC_installation.md %})
 
 ## How to use it
 
@@ -39,7 +39,7 @@ Anyone with access to `the_shared_directory` where the script is located can run
 by running the same command, with various options available:
 
 ```
-usage: GreenAlgorithms_global.py [-h] [-S STARTDAY] [-E ENDDAY] [--filterCWD]
+usage: myCarbonFootprint.sh      [-h] [-S STARTDAY] [-E ENDDAY] [--filterCWD]
                                  [--filterJobIDs FILTERJOBIDS]
                                  [--filterAccount FILTERACCOUNT] [--reportBug]
                                  [--reportBugHere]
@@ -61,6 +61,16 @@ optional arguments:
                         Comma seperated list of Job IDs you want to filter on.
   --filterAccount FILTERACCOUNT
                         Only consider jobs charged under this account
+  --customSuccessStates CUSTOMSUCCESSSTATES
+                        Comma-separated list of job states. By default, only
+                        jobs that exit with status CD or COMPLETED are
+                        considered succesful (PENDING, RUNNING and REQUEUD are
+                        ignored). Jobs with states listed here will be
+                        considered successful as well (best to list both
+                        2-letter and full-length codes. Full list of job
+                        states:
+                        https://slurm.schedmd.com/squeue.html#SECTION_JOB-
+                        STATE-CODES
   --reportBug           In case of a bug, this flag logs jobs informations so
                         that we can fix it. Note that this will write out some
                         basic information about your jobs, such as runtime,
@@ -78,8 +88,10 @@ optional arguments:
 ### Limitations to keep in mind
 
  - The workload manager doesn't alway log the exact CPU usage time, and when this information is missing, we assume that all cores are used at 100%.
- - For now, we assume that GPU jobs only use 1 GPU and the GPU is used at 100% (as the information needed for more accurate measurement is not available)
+ - For now, we assume that GPU jobs only use 1 GPU and the GPU is used at 100%, as the information needed for more accurate measurement is not always available.
+
  (both of these may lead to slightly overestimated carbon footprints, although the order of magnitude is likely to be correct)
+
  - Conversely, the wasted energy due to memory overallocation may be largely underestimated, as the information needed is not always logged.
 
 ## Report bugs
@@ -88,7 +100,7 @@ If you spot any bugs, or would like new features, just [open a new issue on GitH
 
 ## How to modify the script for my cluster?
 
-See the ["Edit code and contribute"](/GA4HPC/edit) page on how to modify the code and share your improvements with other users.
+See the ["Edit code and contribute"]({% link _pages/GA4HPC/GA4HPC_editCode.md %}) page on how to modify the code and share your improvements with other users.
 
 ## Licence
 

@@ -9,7 +9,7 @@ toc: true
 ---
 
 You may need to edit the tool, either to make it work with the specifities of your cluster, or just to add new features.
-Eitherway, please consider submitting some pull requests to the GitHub to share these edits with other users!
+Eitherway, please consider submitting some pull requests to [the GitHub](https://github.com/GreenAlgorithms/GreenAlgorithms4HPC) to share these edits with other users!
 
 There are some example of intermediary files [here](https://github.com/GreenAlgorithms/GreenAlgorithms4HPC/tree/main/example_files/).
 

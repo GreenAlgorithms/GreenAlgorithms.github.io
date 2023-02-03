@@ -28,7 +28,7 @@ sidebar:
 
 ## Methods and data
 
-The methodology behind the Green Algorithms project is described in [our publication](https://onlinelibrary.wiley.com/doi/10.1002/advs.202100707) (go [here](/publications/) for the full list of publications related to this project).
+The methodology behind the Green Algorithms project is described in [our publication](https://onlinelibrary.wiley.com/doi/10.1002/advs.202100707) (go [here]({% link _pages/publications.md %}) for the full list of publications related to this project).
 
 All the data used for the calculator are in the [`/data`](https://github.com/GreenAlgorithms/green-algorithms-tool/tree/master/data) directory on GitHub.
 

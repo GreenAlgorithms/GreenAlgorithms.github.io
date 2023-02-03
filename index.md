@@ -25,7 +25,7 @@ feature_row_1:
 - image_path: /assets/images/GAapp_16x9.jpg
   alt: "Screenshot of the green algorithms calculator."
   title: "The online calculator"
-  excerpt: "A tool to easily estimate the carbon footprint of a project."
+  excerpt: "A tool to easily estimate the carbon footprint of a computation."
   url: "/app-user-guide/"
   btn_label: "Learn more"
   btn_class: "btn--primary"
@@ -65,12 +65,14 @@ gallery_logos:
 __Are you looking for the online calculator?__ It's been moved to [calculator.green-algorithms.org](http://calculator.green-algorithms.org)
 {: .notice--success}
 
-__:hourglass: This website is a work in progress, and we will keep adding content in the coming weeks!__
+__:hourglass: This website is a work in progress, and we will keep adding content in the coming weeks/months!__ Comments/suggestions can be made [here](https://github.com/GreenAlgorithms/GreenAlgorithms.github.io/issues).
 {: .notice--warning}
 
 The Green Algorithms project aims at promoting more environmentally sustainable computational science. It regroups calculators that researchers can use to estimate the carbon footprint of their projects, tips on how to be more environmentally friendly, training material, past talks etc.
 
+<!-- TODO add news -->
 
+<!-- TODO do the google SEO -->
 
 <!-- ## Estimating the carbon footprint of algorithms -->
 

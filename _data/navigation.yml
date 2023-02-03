@@ -27,6 +27,9 @@ training:
   - title: Ten Simple Rules
     url: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009324
   - title: "Recordings"
+    children:
+      - title: "EMBL-EBI webinar"
+        url: https://www.ebi.ac.uk/training/events/environmental-impact-computational-biology/
 
 talks:
   - title: "To jump straight to the latest recordings and slides:"
