@@ -2,10 +2,10 @@ main:
   - title: "Calculator"
     url: /app-user-guide/
     description: The online calculator to estimate carbon footprints
-  - title: "Training"
-    url: /training/
   - title: "GA4HPC"
     url: /GA4HPC/
+  - title: "Training"
+    url: /training/
   - title: "Publications"
     url: /publications/
   - title: "Talks"

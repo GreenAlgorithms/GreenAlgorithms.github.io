@@ -9,10 +9,7 @@ header:
   overlay_filter: linear-gradient(rgba(255, 255,255, 0), 20%, rgba(255, 255, 255, 1))
   text_color: rgb(80, 80, 80)
 
-sidebar:
-  nav: training
-
-classes: wide
+layout: splash
 
 blog_articles:
 - image_path: /assets/images/placeholder_16x9.jpg
@@ -24,24 +21,35 @@ blog_articles:
   btn_class: "btn--primary"
 
 feature_row_1:
-- image_path: assets/images/EMBL-EBI webinar.png
+- image_path: assets/training/EMBLEBIwebinar_16x9.jpg
   alt: "The carbon footprint of computational biology, an EMBL-EBI training webinar."
-  title: "A training webinar with EMBL-EBI"
-  excerpt: "We did a webinar with EMBL-EBI's training team, it's still available with the slides!"
+  title: "A training webinar"
+  excerpt: "We did a webinar with EMBL-EBI's training team, the recording is available with the slides!"
   url: "https://www.ebi.ac.uk/training/events/environmental-impact-computational-biology/"
+  btn_label: "Learn more"
+  btn_class: "btn--primary"
+- image_path: assets/training/Comment_NRMP_16x9.jpg
+  alt: "Carbon footprint estimation for computational research"
+  title: "What tool to choose?"
+  excerpt: "We published a short piece discussing the pros and cons of the different options."
+  url: "assets/publications/2023_Comment_NRPM.pdf"
+  btn_label: "Learn more"
+  btn_class: "btn--primary"
+- image_path: assets/training/TenSimpleRules_16x9.jpg
+  alt: "Ten simple rules to make your computing more environmentally sustainable"
+  title: "What can you do today?"
+  excerpt: "Here are 10 simple ways in which you can reduce the impacy of your work."
+  url: "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009324#sec001"
   btn_label: "Learn more"
   btn_class: "btn--primary"
 ---
 
-We regroup here resources that can be used to learn more about green computing.
-
-If you just want a summary of what you can do today, __check out our [Ten Simple Rules article](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009324)__!
-{: .notice--info}
+We regroup here resources that can be used to learn more about green computing, some from us, but also links to other websites and initiative ([suggestions](https://github.com/GreenAlgorithms/GreenAlgorithms.github.io/issues) on what to add to the list welcome!).
 
 <!-- :hourglass: &nbsp; More coming soon &nbsp; :hourglass:
 {: .notice--warning} -->
 
-{% include feature_row id="feature_row_1" type="left"%}
+{% include feature_row id="feature_row_1" %}
 
 <!-- # Tutorials
 
