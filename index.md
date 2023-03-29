@@ -62,11 +62,14 @@ gallery_logos:
     image_path: /assets/images/Baker_gallery.png
 ---
 
-__Are you looking for the online calculator?__ It's been moved to [calculator.green-algorithms.org](http://calculator.green-algorithms.org)
-{: .notice--success}
+<!-- __Are you looking for the online calculator?__ It's been moved to [calculator.green-algorithms.org](http://calculator.green-algorithms.org)
+{: .notice--success} -->
 
 <!-- __:hourglass: This website is a work in progress, and we will keep adding content in the coming weeks/months!__ Comments/suggestions can be made [here](https://github.com/GreenAlgorithms/GreenAlgorithms.github.io/issues).
 {: .notice--warning} -->
+
+__:mega: New publication! _"Carbon footprint estimation for computational research".___ We have just released a Comment in _Nature Reviews Methods Primers_ that summarises the different ways you can estimate the environmental impacts of your algorithms. [\[link\]](https://www.nature.com/articles/s43586-023-00202-5) [\[pdf\]]({% link assets/publications/2023_Comment_NRPM.pdf %})
+{: .notice--info}
 
 The Green Algorithms project aims at promoting more environmentally sustainable computational science. It regroups calculators that researchers can use to estimate the carbon footprint of their projects, tips on how to be more environmentally friendly, training material, past talks etc.
 
