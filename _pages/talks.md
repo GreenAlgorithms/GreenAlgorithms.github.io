@@ -8,9 +8,6 @@ header:
   overlay_filter: linear-gradient(rgba(255, 255,255, 0), 20%, rgba(255, 255, 255, 1))
   text_color: rgb(80, 80, 80)
 
-sidebar:
-  nav: talks
-
 toc: true
 ---
 
