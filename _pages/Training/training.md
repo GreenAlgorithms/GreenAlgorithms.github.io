@@ -38,7 +38,7 @@ feature_row_1:
 - image_path: assets/training/TenSimpleRules_16x9.jpg
   alt: "Ten simple rules to make your computing more environmentally sustainable"
   title: "What can you do today?"
-  excerpt: "Here are 10 simple ways in which you can reduce the impacy of your work."
+  excerpt: "Here are 10 simple ways in which you can reduce the impact of your work."
   url: "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009324#sec001"
   btn_label: "Learn more"
   btn_class: "btn--primary"
