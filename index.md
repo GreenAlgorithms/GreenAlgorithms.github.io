@@ -3,7 +3,7 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-last_modified_at: 22/11/2022
+last_modified_at: 07/07/2023
 
 
 layout: splash
@@ -68,7 +68,8 @@ gallery_logos:
 <!-- __:hourglass: This website is a work in progress, and we will keep adding content in the coming weeks/months!__ Comments/suggestions can be made [here](https://github.com/GreenAlgorithms/GreenAlgorithms.github.io/issues).
 {: .notice--warning} -->
 
-__:mega: New publication! _"Carbon footprint estimation for computational research".___ We have just released a Comment in _Nature Reviews Methods Primers_ that summarises the different ways you can estimate the environmental impacts of your algorithms. [\[link\]](https://www.nature.com/articles/s43586-023-00202-5) [\[pdf\]]({% link assets/publications/2023_Comment_NRPM.pdf %})
+__:mega: New publication! _"GREENER principles for environmentally sustainable computational science".___ We have just released a Perspective in _Nature Computational Science_ which sets out fundamental principles for environmentally sustainable computational science (acronym GREENER), as well as guidance for best practices moving forward. The work was a collaboration with major stakeholders such as HDR-UK, EMBL-EBI, Wellcome and UKRI. [\[link\]](https://rdcu.be/dfpLM)
+<!-- {% include figure image_path="assets/images/roadmap figures 8b.jpg" %} -->
 {: .notice--info}
 
 The Green Algorithms project aims at promoting more environmentally sustainable computational science. It regroups calculators that researchers can use to estimate the carbon footprint of their projects, tips on how to be more environmentally friendly, training material, past talks etc.
