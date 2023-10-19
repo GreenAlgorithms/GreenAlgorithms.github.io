@@ -26,7 +26,7 @@ feature_row_1:
   alt: "Screenshot of the green algorithms calculator."
   title: "The online calculator"
   excerpt: "A tool to easily estimate the carbon footprint of a computation."
-  url: "/app-user-guide/"
+  url: "/GAapp-overview/"
   btn_label: "Learn more"
   btn_class: "btn--primary"
 - image_path: /assets/images/GA4HPC_16x9.jpg
@@ -67,6 +67,9 @@ gallery_logos:
 
 <!-- __:hourglass: This website is a work in progress, and we will keep adding content in the coming weeks/months!__ Comments/suggestions can be made [here](https://github.com/GreenAlgorithms/GreenAlgorithms.github.io/issues).
 {: .notice--warning} -->
+
+__:mega: We are starting a Community of Practice around Envrionmentally Sustainable Computational Science!__ Interested in joining it or just seeing how this goes? Just fill in [this form](https://forms.gle/pftpt2YEFsQqayut6).
+{: .notice--info}
 
 __:mega: New publication! _"GREENER principles for environmentally sustainable computational science".___ We have just released a Perspective in _Nature Computational Science_ which sets out fundamental principles for environmentally sustainable computational science (acronym GREENER), as well as guidance for best practices moving forward. The work was a collaboration with major stakeholders such as HDR-UK, EMBL-EBI, Wellcome and UKRI. [\[link\]](https://rdcu.be/dfpLM)
 <!-- {% include figure image_path="assets/images/roadmap figures 8b.jpg" %} -->

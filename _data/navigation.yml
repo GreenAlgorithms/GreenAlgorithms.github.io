@@ -1,6 +1,6 @@
 main:
   - title: "Calculator"
-    url: /app-user-guide/
+    url: /GAapp-overview/
     description: The online calculator to estimate carbon footprints
   - title: "GA4HPC"
     url: /GA4HPC/
@@ -12,6 +12,14 @@ main:
     url: /talks/
   - title: "About"
     url: /about/
+
+GAapp:
+  - title: Overview
+    url: /GAapp-overview/
+  - title: Tutorials
+    children:
+      - title: "[FR] Projet IA a priori"
+        url: /GAapp/Tutorials/predire_impact_projet_IA_FR/
 
 GA4HPC:
   - title: Overview
