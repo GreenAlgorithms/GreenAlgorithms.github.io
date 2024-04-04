@@ -11,19 +11,35 @@ header:
 toc: true
 ---
 
-Some recent past talks we gave about the topic to different audiences, with recordings when possible
+Some recent past talks we gave about the topic to different audiences, with recordings when available.
 
-### One of the most recent ones:
+### To go straight to the point
 
-- __UK Health Security Agency's seminar__ (May 2023). [\[slides\]](https://drive.google.com/file/d/1B5LvnOCMJ7RbN2VbJM5eOd_uffFhfyu7/view?usp=share_link)
+_(less than 15min, with recording and slides)_
+- __Health Data Research UK__ 2024 Annual Conference (March 2024).
+[\[recording\]](https://www.youtube.com/watch?v=txhrMrXBQm8&list=PLBI5k9SgYrIs4EYNSqExYnE6opU5qQy9J&index=10){:target="_blank"}
+[\[slides\]](https://drive.google.com/file/d/1UTKgDPtDNOxjrV51NRmY77-610DEqEMT/view?usp=share_link){:target="_blank"}
 
-### About computational biology:
+### Biology/bioinformatics audience
 
-- __EMBL-EBI webinar__ on the carbon footprint footprint of computational biology (November 2022). [\[recording\]](https://www.ebi.ac.uk/training/events/environmental-impact-computational-biology/) [\[YouTube\]](https://www.youtube.com/watch?v=Kl64yn1eDUo) [\[slides\]](https://drive.google.com/file/d/1pklCNNXAFadjVwCMj0draIt8nL_89Tx0/view?usp=share_link)
+_(Slides only, long version)_
+- __Babraham Institute, UK__ (April 2024).
+[\[slides\]](https://drive.google.com/file/d/1Yd3bZsG6zIZ3EMU9zUAtiYXbp6ccbRHa/view?usp=share_link){:target="_blank"}
 
-### About AI:
+_(Shorter version, with recording)_
+- _ERGA_ - European Reference Genome Atlas Plenary session (February 2024).
+[\[recording\]](https://www.youtube.com/watch?v=X8uCO4FG9ro){:target="_blank"}
+[\[slides\]](https://drive.google.com/file/d/1hPO-w4asFNPq-MY1yLTYNaLf0zhRtgSi/view?usp=sharing){:target="_blank"}
 
-- __AI-2022__ British Computer Society's International Conference on Artificial Intelligence - [_Sustainability & AI_ workshop](http://bcs-sgai.org/ai2022/?section=workshops) (December 2022). [\[slides\]](https://drive.google.com/file/d/15KP3gxyuu23MW6WaNAW867Ti4RBBZClP/view?usp=share_link)
+_(Webinar, a bit older)_
+- __EMBL-EBI webinar__ (November 2022).
+[\[recording\]](https://www.ebi.ac.uk/training/events/environmental-impact-computational-biology/){:target="_blank"}
+[\[YouTube\]](https://www.youtube.com/watch?v=Kl64yn1eDUo){:target="_blank"}
+[\[slides\]](https://drive.google.com/file/d/1pklCNNXAFadjVwCMj0draIt8nL_89Tx0/view?usp=share_link){:target="_blank"}
+
+### AI/ML audience
+
+- __AMLD__ EPFL's Applied Machine Learning Days conference (March 2024) - [\[slides\]](https://drive.google.com/file/d/1ijfNAc-6x9H5INpctc75e2hoQ4-J_O4J/view?usp=share_link){:target="_blank"}
 
 <!-- ## 2023
 
