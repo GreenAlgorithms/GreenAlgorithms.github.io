@@ -12,9 +12,11 @@ sidebar:
   - image: /assets/images/Baker_gallery.png
 ---
 
-The Green Algorithms project has been jointly developed by [Loïc Lannelongue](https://www.lannelongue.eu), [Jason Grealey](https://scholar.google.com/citations?user=DiAlGKAAAAAJ&hl=en) and [Michael Inouye](https://www.inouyelab.org/), from the University of Cambridge (UK) and the Baker Heart and Diabetes Research Institute (Melbourne, Australia).
+The Green Algorithms project is led by [Dr Loïc Lannelongue](https://www.lannelongue.eu) and [Prof Michael Inouye](https://www.inouyelab.org/), from the University of Cambridge (UK) and the Baker Heart and Diabetes Research Institute (Melbourne, Australia).
 
 ## Acknowledgments
+
+Other contributions: [Dr Jason Grealey](https://scholar.google.com/citations?user=DiAlGKAAAAAJ&hl=en) helped to start this project and led the survey of the carbon footprint of bioinformatics.
 
 This work was supported by core funding from the British Heart Foundation (RG/13/13/30194; RG/18/13/33946) and the NIHR Cambridge Biomedical Research Centre (BRC-1215-20014) [*].
 *The views expressed are those of the author(s) and not necessarily those of the NIHR or the Department of Health and Social Care.
