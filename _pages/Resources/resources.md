@@ -1,7 +1,7 @@
 ---
-permalink: /training/
+permalink: /resources/
 
-title: Training resources
+title: Resources
 excerpt: What can we do for more environmentally sustainable computational science?
 
 header:
@@ -16,26 +16,26 @@ blog_articles:
   alt: "Placeholder."
   title: "An introduction to green computing"
   excerpt: "Where to start?"
-  url: /training/
+  url: /resources/
   btn_label: "Learn more"
   btn_class: "btn--primary"
 
 feature_row_1:
-- image_path: assets/training/EMBLEBIwebinar_16x9.jpg
-  alt: "The carbon footprint of computational biology, an EMBL-EBI training webinar."
-  title: "A training webinar"
-  excerpt: "We did a webinar with EMBL-EBI's training team, the recording is available with the slides!"
-  url: "https://www.ebi.ac.uk/training/events/environmental-impact-computational-biology/"
-  btn_label: "Learn more"
-  btn_class: "btn--primary"
-- image_path: assets/training/Comment_NRMP_16x9.jpg
+- image_path: assets/resources/Comment_NRMP_16x9.jpg
   alt: "Carbon footprint estimation for computational research"
   title: "What tool to choose?"
   excerpt: "We published a short piece discussing the pros and cons of the different options."
   url: "assets/publications/2023_Comment_NRPM.pdf"
   btn_label: "Learn more"
   btn_class: "btn--primary"
-- image_path: assets/training/TenSimpleRules_16x9.jpg
+- image_path: assets/resources/EMBLEBIwebinar_16x9.jpg
+  alt: "The carbon footprint of computational biology, an EMBL-EBI training webinar."
+  title: "A training webinar"
+  excerpt: "We did a webinar with EMBL-EBI's training team, the recording is available with the slides!"
+  url: "https://www.ebi.ac.uk/training/events/environmental-impact-computational-biology/"
+  btn_label: "Learn more"
+  btn_class: "btn--primary"
+- image_path: assets/resources/TenSimpleRules_16x9.jpg
   alt: "Ten simple rules to make your computing more environmentally sustainable"
   title: "What can you do today?"
   excerpt: "Here are 10 simple ways in which you can reduce the impacy of your work."

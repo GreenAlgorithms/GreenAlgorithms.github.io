@@ -4,8 +4,8 @@ main:
     description: The online calculator to estimate carbon footprints
   - title: "GA4HPC"
     url: /GA4HPC/
-  - title: "Training"
-    url: /training/
+  - title: "Resources"
+    url: /resources/
   - title: "Publications"
     url: /publications/
   - title: "Talks"
@@ -29,15 +29,15 @@ GA4HPC:
   - title: Edit code and contribute
     url: /GA4HPC/edit
 
-training:
-  - title: Overview
-    url: /training/
-  - title: Ten Simple Rules
-    url: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009324
-  - title: "Recordings"
-    children:
-      - title: "EMBL-EBI webinar"
-        url: https://www.ebi.ac.uk/training/events/environmental-impact-computational-biology/
+# training:
+#   - title: Overview
+#     url: /training/
+#   - title: Ten Simple Rules
+#     url: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009324
+#   - title: "Recordings"
+#     children:
+#       - title: "EMBL-EBI webinar"
+#         url: https://www.ebi.ac.uk/training/events/environmental-impact-computational-biology/
 
 talks:
   - title: "To jump straight to the latest recordings and slides:"

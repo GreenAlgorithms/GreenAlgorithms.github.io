@@ -40,7 +40,7 @@ feature_row_1:
   alt: ""
   title: "Tips for green computing"
   excerpt: "Resources to move towards more sustainable computing."
-  url: /training/
+  url: /resources/
   btn_label: "Learn more"
   btn_class: "btn--primary"
 
@@ -48,8 +48,8 @@ feature_training:
 - image_path: /assets/images/placeholder_16x9.jpg
   alt: "Placeholder."
   title: "Including sustainability in computational training."
-  excerpt: "How can we include sustainability in training, from undergraduates to post-docs."
-  url: /training/
+  excerpt: "How can we include sustainability in training sessions, from undergraduates to post-docs."
+  url: /resources/
   btn_label: "Learn more"
   btn_class: "btn--primary"
 
