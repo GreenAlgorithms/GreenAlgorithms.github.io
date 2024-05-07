@@ -11,35 +11,44 @@ header:
 toc: true
 ---
 
-Some recent past talks we gave about the topic to different audiences, with recordings when available.
+Some recent past talks we gave about the topic to different audiences, with recordings and slides when available.
+
+### Podcasts
+
+- [\[Code for Thought\]](https://codeforthought.buzzsprout.com/1326658/14838208-en-make-computing-greener-loic-lannelongue){:target="_blank"}
+_(30min, an overview of the Green Algorithms project, and why this is important)_ <br>
+__Make computing GREENER - Loïc Lannelongue__, interview by Peter Schmidt from the _Code for Thought_ podcast (April 2024).
 
 ### To go straight to the point
 
-_(less than 15min, with recording and slides)_
-- __Health Data Research UK__ 2024 Annual Conference (March 2024).
-[\[recording\]](https://www.youtube.com/watch?v=txhrMrXBQm8&list=PLBI5k9SgYrIs4EYNSqExYnE6opU5qQy9J&index=10){:target="_blank"}
+- [\[recording\]](https://www.youtube.com/watch?v=txhrMrXBQm8&list=PLBI5k9SgYrIs4EYNSqExYnE6opU5qQy9J&index=10){:target="_blank"}
 [\[slides\]](https://drive.google.com/file/d/1UTKgDPtDNOxjrV51NRmY77-610DEqEMT/view?usp=share_link){:target="_blank"}
+_(less than 15min)_ <br>
+__Health Data Research UK__ 2024 Annual Conference (March 2024).
+
 
 ### Biology/bioinformatics audience
 
-_(Slides only, long version)_
-- __Babraham Institute, UK__ (April 2024).
-[\[slides\]](https://drive.google.com/file/d/1Yd3bZsG6zIZ3EMU9zUAtiYXbp6ccbRHa/view?usp=share_link){:target="_blank"}
+- [\[slides\]](https://drive.google.com/file/d/1Yd3bZsG6zIZ3EMU9zUAtiYXbp6ccbRHa/view?usp=share_link){:target="_blank"}
+_(long version, slides only)_ <br>
+__Babraham Institute, UK__ (April 2024).
 
-_(Shorter version, with recording)_
-- _ERGA_ - European Reference Genome Atlas Plenary session (February 2024).
-[\[recording\]](https://www.youtube.com/watch?v=X8uCO4FG9ro){:target="_blank"}
+- [\[recording\]](https://www.youtube.com/watch?v=X8uCO4FG9ro){:target="_blank"}
 [\[slides\]](https://drive.google.com/file/d/1hPO-w4asFNPq-MY1yLTYNaLf0zhRtgSi/view?usp=sharing){:target="_blank"}
+_(shorter version, with recording)_ <br>
+__ERGA__ - European Reference Genome Atlas Plenary session (February 2024).
 
-_(Webinar, a bit older)_
-- __EMBL-EBI webinar__ (November 2022).
-[\[recording\]](https://www.ebi.ac.uk/training/events/environmental-impact-computational-biology/){:target="_blank"}
+- [\[recording\]](https://www.ebi.ac.uk/training/events/environmental-impact-computational-biology/){:target="_blank"}
 [\[YouTube\]](https://www.youtube.com/watch?v=Kl64yn1eDUo){:target="_blank"}
 [\[slides\]](https://drive.google.com/file/d/1pklCNNXAFadjVwCMj0draIt8nL_89Tx0/view?usp=share_link){:target="_blank"}
+_(webinar, a bit older)_ <br>
+__EMBL-EBI webinar__ (November 2022).
 
 ### AI/ML audience
 
-- __AMLD__ EPFL's Applied Machine Learning Days conference (March 2024) - [\[slides\]](https://drive.google.com/file/d/1ijfNAc-6x9H5INpctc75e2hoQ4-J_O4J/view?usp=share_link){:target="_blank"}
+- [\[slides\]](https://drive.google.com/file/d/1ijfNAc-6x9H5INpctc75e2hoQ4-J_O4J/view?usp=share_link){:target="_blank"}
+_(slides only)_ <br>
+__AMLD__ EPFL's Applied Machine Learning Days conference (March 2024)
 
 <!-- ## 2023
 
