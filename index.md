@@ -71,7 +71,7 @@ gallery_logos:
 __:tada: The Green Algorithms project has won the [2024 Susannah Boddie Impact of the Year Award](https://www.hdruk.ac.uk/news/winners-announced-2024-hdr-uk-annual-prizes/){:target="_blank"} at the Health Data Research UK annual conference!__ “The panel applauded the work’s clear impact on policy in a short time frame. The panel were impressed by the direct and tangible environmental impacts of these efforts, and recognised the pioneering role of this collaborative effort in raising awareness and providing tools for carbon footprint estimation in computational research.”
 {: .notice--success}
 
-__:mega: We are starting a Community of Practice around Envrionmentally Sustainable Computational Science!__ Interested in joining it or just seeing how this goes? __Just fill in [this form](https://forms.gle/pftpt2YEFsQqayut6).__
+__:mega: We are starting a Community of Practice around Environmentally Sustainable Computational Science!__ Interested in joining it or just seeing how this goes? __Just fill in [this form](https://forms.gle/pftpt2YEFsQqayut6).__
 {: .notice--info}
 
 __:mega: New publication! _"GREENER principles for environmentally sustainable computational science".___ We have just released a Perspective in _Nature Computational Science_ which sets out fundamental principles for environmentally sustainable computational science (acronym GREENER), as well as guidance for best practices moving forward. The work was a collaboration with major stakeholders such as HDR-UK, EMBL-EBI, Wellcome and UKRI. [\[link\]](https://rdcu.be/dfpLM)
