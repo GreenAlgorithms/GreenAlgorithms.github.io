@@ -38,7 +38,7 @@ You will play a crucial role in making the Green Algorithms Initiative a success
 
 ### Software Engineer Lead (1 role)
 
-__[[advert](https://www.jobs.cam.ac.uk/job/49110/)] [further particulars](https://www.jobs.cam.ac.uk/job/49110/file/Further+Particulars+%28RH43986%29.pdf.pdf)__
+__[[advert](https://www.jobs.cam.ac.uk/job/49110/)] [[further particulars](https://www.jobs.cam.ac.uk/job/49110/file/Further+Particulars+%28RH43986%29.pdf.pdf)]__
 
 You will be responsible for the development, dissemination and maintenance of the existing tools as well as the design of new emerging tools related to the group’s activities. In particular, you will take lead on the development of the upcoming Green Algorithms Dashboard for HPC and on the continuing improvement of the online calculator, ensuring that it meets open source and sustainability development best practices. More generally, you will work on the architecture (e.g. databases, services, computational tools), user-interface (website, API), and related software tooling. More info and how to apply [here](https://www.jobs.cam.ac.uk/job/49110/).
 
