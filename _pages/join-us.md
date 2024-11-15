@@ -43,7 +43,7 @@ __[[advert](https://www.jobs.cam.ac.uk/job/49110/)] [[further particulars](https
 You will be responsible for the development, dissemination and maintenance of the existing tools as well as the design of new emerging tools related to the group’s activities. In particular, you will take lead on the development of the upcoming Green Algorithms Dashboard for HPC and on the continuing improvement of the online calculator, ensuring that it meets open source and sustainability development best practices. More generally, you will work on the architecture (e.g. databases, services, computational tools), user-interface (website, API), and related software tooling. More info and how to apply [here](https://www.jobs.cam.ac.uk/job/49110/).
 
 ### Researchers (3 roles)
-These research roles can be appointed wether at Research Associate level (i.e. post-docs) or Research Assistants (without a PhD), the emphasis is on relevant expertise and an interest in sustainable computational science.
+These research roles can be appointed whether at Research Associate level (i.e. post-docs) or Research Assistants (without a PhD), the emphasis is on relevant expertise and an interest in sustainable computational science.
 
 Successful candidates will be trained to obtain the required expertise in green computing and environmental sustainability, and their work is expected to lead to first author high-impact publications.
 
