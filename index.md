@@ -68,7 +68,7 @@ gallery_logos:
 <!-- __:hourglass: This website is a work in progress, and we will keep adding content in the coming weeks/months!__ Comments/suggestions can be made [here](https://github.com/GreenAlgorithms/GreenAlgorithms.github.io/issues).
 {: .notice--warning} -->
 
-__:bust_in_silhouette: We are recruiting!__ Interested in joining the Green Algorithms Initiative? We have a range of roles (research, software engineering, Community management and project coordination), more details [here](/join-us) (:warning: closing date coming up: 25/11/2024).
+__:bust_in_silhouette: We are recruiting!__ Interested in joining the Green Algorithms Initiative? We have a range of roles available, more details [here](http://www.lannelongue-group.org/join/).
 {: .notice--info}
 
 __:tada: The Green Algorithms project has won the [2024 Susannah Boddie Impact of the Year Award](https://www.hdruk.ac.uk/news/winners-announced-2024-hdr-uk-annual-prizes/){:target="_blank"} at the Health Data Research UK annual conference!__ “The panel applauded the work’s clear impact on policy in a short time frame. The panel were impressed by the direct and tangible environmental impacts of these efforts, and recognised the pioneering role of this collaborative effort in raising awareness and providing tools for carbon footprint estimation in computational research.”

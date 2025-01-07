@@ -12,8 +12,8 @@ main:
     url: /talks/
   - title: "About"
     url: /about/
-  - title: "Join us"
-    url: /join-us/
+  # - title: "Join us"
+  #   url: http://www.lannelongue-group.org/join/
 
 GAapp:
   - title: Overview
