@@ -55,11 +55,13 @@ feature_training:
 
 gallery_logos:
   - url: "https://www.phpc.cam.ac.uk"
-    image_path: /assets/images/DPHPC_gallery.png
+    image_path: /assets/images/cambridge-logo.png
+  - url: "https://wellcome.org/"
+    image_path: assets/images/wellcome-logo.png
+  - url: "https://cambridgebrc.nihr.ac.uk/"
+    image_path: assets/images/cambridge-nihr-brc-logo.png
   - url: "https://www.hdruk.ac.uk"
     image_path: /assets/images/HDRuk_gallery.png
-  - url: "https://baker.edu.au"
-    image_path: /assets/images/Baker_gallery.png
 ---
 
 <!-- __Are you looking for the online calculator?__ It's been moved to [calculator.green-algorithms.org](http://calculator.green-algorithms.org)
@@ -104,7 +106,7 @@ For any technical issues with one of the tools, either email or open an issue on
 
 ## Supported by:
 
-{% include gallery id="gallery_logos" type="left"%}
+{% include gallery id="gallery_logos" type="left" layout="third" %}
 
 [![CC BY 4.0][cc-by-image]][cc-by]&nbsp;&nbsp; All the work on this website is licensed under a [Creative Commons Attribution 4.0 International License][cc-by].
 

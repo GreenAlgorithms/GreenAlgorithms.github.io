@@ -7,16 +7,21 @@ classes: wide
 sidebar:
   - image: /assets/images/DPHPC_gallery.png
     text: "&nbsp;"
+  - image: assets/images/wellcome-logo.png
+    text: "&nbsp;"
+  - image: assets/images/cambridge-nihr-brc-logo.png
+    text: "&nbsp;"
   - image: /assets/images/HDRuk_gallery.png
     text: "&nbsp;"
-  - image: /assets/images/Baker_gallery.png
 ---
 
-The Green Algorithms project is led by [Dr Loïc Lannelongue](https://www.lannelongue.eu) and [Prof Michael Inouye](https://www.inouyelab.org/), from the University of Cambridge (UK) and the Baker Heart and Diabetes Research Institute (Melbourne, Australia).
+The Green Algorithms project is led by [Dr Loïc Lannelongue](https://www.lannelongue-group.org) and [Prof Michael Inouye](https://www.inouyelab.org/), from the University of Cambridge (UK).
 
-## Acknowledgments
+## Acknowledgments: contributors and funders
 
-Other contributions: [Dr Jason Grealey](https://scholar.google.com/citations?user=DiAlGKAAAAAJ&hl=en) helped to start this project and led the survey of the carbon footprint of bioinformatics.
+Other contributions:
+- [Dr Jason Grealey](https://scholar.google.com/citations?user=DiAlGKAAAAAJ&hl=en) (then: Baker Heart and Diabetes Institute, Melbourne, Australia) helped to start this project and led the survey of the carbon footprint of bioinformatics.
+- Even Matencio ([GitHub](https://github.com/evenmatencio), [LinkedIn](www.linkedin.com/in/evenmatencio)) (then: French Department for the Environment, Paris, France) developed the v3.0 of the calculator and in particular the AI view.
 
 This work was supported by core funding from the British Heart Foundation (RG/13/13/30194; RG/18/13/33946) and the NIHR Cambridge Biomedical Research Centre (BRC-1215-20014) [*].
 *The views expressed are those of the author(s) and not necessarily those of the NIHR or the Department of Health and Social Care.
@@ -37,3 +42,9 @@ This work is licensed under a
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+
+## More credits
+
+Project-specific credits can be found on their respective GitHub (e.g. [online calculator](https://github.com/GreenAlgorithms/green-algorithms-tool)).
+
+{{ site.data.ui-text[site.locale].powered_by | default: "Website powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.

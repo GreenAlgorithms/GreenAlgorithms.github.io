@@ -15,13 +15,13 @@ main:
   # - title: "Join us"
   #   url: http://www.lannelongue-group.org/join/
 
-GAapp:
-  - title: Overview
-    url: /GAapp-overview/
-  - title: Tutorials
-    children:
-      - title: "[FR] Projet IA a priori"
-        url: /GAapp/Tutorials/predire_impact_projet_IA_FR/
+# GAapp:
+#   - title: Overview
+#     url: /GAapp-overview/
+#   - title: Tutorials
+#     children:
+#       - title: "[FR] Projet IA a priori"
+#         url: /GAapp/Tutorials/predire_impact_projet_IA_FR/
 
 GA4HPC:
   - title: Overview

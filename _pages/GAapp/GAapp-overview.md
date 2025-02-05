@@ -16,7 +16,6 @@ toc: true
 toc_sticky: true
 
 sidebar:
-  - nav: GAapp
   - image: assets/images/app_fullScreenshot.png
 ---
 
@@ -87,4 +86,4 @@ This work is licensed under a
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
-### [Credits](/credits/)
+### [Credits](https://github.com/GreenAlgorithms/green-algorithms-tool)
