@@ -2,6 +2,8 @@ main:
   - title: "Calculator"
     url: /GAapp-overview/
     description: The online calculator to estimate carbon footprints
+  - title: "E-SCOUT"
+    url: /E-SCOUT/
   - title: "GA4HPC"
     url: /GA4HPC/
   - title: "Resources"
