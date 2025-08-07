@@ -10,3 +10,5 @@ vendor/
 
 assets/images/placeholder*
 */.DS_Store
+
+Gemfile.lock
